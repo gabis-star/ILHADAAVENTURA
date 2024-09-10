@@ -1,4 +1,7 @@
 body{
 beckground-color: #1D4221;
 color: white;
-font-family: "Bai Janjure" sans-serif
+font-family: "Bai Janjure" sans-serif;
+justify-content: center;
+align-items: center;
+}
