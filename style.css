@@ -1,13 +1,22 @@
 body{
-beckground-color: #1D4221;
-color: white;
-font-family: "Bai Janjure" sans-serif;
-justify-content: center;
-align-items: center;
-height: 700px;
-margin:0;
+    background-color: #1D4221;
+    color: white;
+    font-family: "Bai Janjure" sans-serif;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin:0;
 }
-utton {beckgroun-color: #64A712;
+button {
+    background-color: #64A712;
     color:white;
-    font font-family: "bai janjuree", sans-sherif;
+    font-family: "Bai Janjure", sans-sherif;
+}
+
+.passo {
+    display: none;
+}
+
+    .passo.ativo {
+    display:block;
 }
